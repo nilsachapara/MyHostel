@@ -1,4 +1,4 @@
-<img src="https://github.com/nilsachapara/MyHostel/blob/main/assets/images/logo.png" width="60"/>
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/assets/images/logo.png" width="60"/>
 
 # MyHostel
 
@@ -9,15 +9,15 @@ My Hostel is a hostel complaint, Services leaving filling application. It was de
 
 <p>
 <img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a0.jpg" height="390"/> &#160;
-<img src="https://github.com/nilsachapara/MyHostel/screenshot/a1.jpg" height="390"/> &#160;
-<img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a2.jpg" height="390"/> &#160;
-<img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a3.jpg" height="390"/> &#160;
-<img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a4.jpg" height="390"/> &#160;
-<img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a5.jpg" height="390"/> &#160;
-<img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a6.jpg" height="390"/> &#160;
-<img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a7.jpg" height="390"/> &#160;
-<img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a8.jpg" height="390"/> &#160;
-<img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a9.jpg" height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a1.jpg" height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a2.jpg" height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a3.jpg" height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a4.jpg" height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a5.jpg" height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a6.jpg" height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a7.jpg" height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a8.jpg" height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a9.jpg" height="390"/> &#160;
 
 
 </p>
