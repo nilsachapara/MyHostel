@@ -9,7 +9,7 @@ My Hostel is a hostel complaint, Services leaving filling application. It was de
 
 <p>
 <img src="https://github.com/nilsachapara/MyHostel/screenshot/a0.jpg" height="390"/> &#160;
-<img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a1.jpg" height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/screenshot/a1.jpg" height="390"/> &#160;
 <img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a2.jpg" height="390"/> &#160;
 <img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a3.jpg" height="390"/> &#160;
 <img src="https://github.com/nilsachapara/MyHostel/blob/main/screenshot/a4.jpg" height="390"/> &#160;
