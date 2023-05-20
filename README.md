@@ -8,7 +8,7 @@ My Hostel is a hostel complaint, Services leaving filling application. It was de
 ### Screenshots
 
 <p>
-<img src="https://drive.google.com/file/d/16aBtnXJ4kDQ-EKdAQgSz6-x54LaUR04A/view?usp=drivesdk " height="390"/> &#160;
+<img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a0.jpg" height="390"/> &#160;
 <img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a1.jpg" height="390"/> &#160;
 <img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a2.jpg" height="390"/> &#160;
 <img src="https://github.com/nilsachapara/MyHostel/blob/master/screenshot/a3.jpg" height="390"/> &#160;
